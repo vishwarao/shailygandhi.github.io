@@ -1,1 +1,36 @@
+---
+layout: page
+title: Publications
+---
 
+## Publications
+
+<table>
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>Authors</th>
+      <th>Title</th>
+      <th>Publication</th>
+      <th>Link/DOI</th>
+    </tr>
+  </thead>
+  <tbody>
+   {% for publication in site.data.publications %}
+    <tr>
+      <td>{{ publication.year }}</td>
+      <td>{{ publication.authors }}</td>
+      <td>{{ publication.title }}</td>
+      <td>{{ publication.publication }}</td>
+      <td>
+        {% if publication.link %}
+          <a href="{{ publication.link }}" target="_blank">{{ publication.link }}</a>
+        {% endif %}
+        {% if publication.doi %}
+          DOI: {{ publication.doi }}
+        {% endif %}
+      </td>
+    </tr>
+  {% endfor %} 
+  </tbody>
+</table>
