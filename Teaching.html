@@ -1,1 +1,32 @@
+---
+layout: page
+title: Courses Taught
+---
+
+## Courses Taught
+
+<table>
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>Institution</th>
+      <th>Designation</th>
+      <th>Semester</th>
+      <th>Class</th>
+      <th>Subject</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for course in site.data.courses %}
+    <tr>
+      <td>{{ course.year }}</td>
+      <td>{{ course.institution }}</td>
+      <td>{{ course.designation }}</td>
+      <td>{{ course.semester }}</td>
+      <td>{{ course.class }}</td>
+      <td>{{ course.subject }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
 
