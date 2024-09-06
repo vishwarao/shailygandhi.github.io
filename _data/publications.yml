@@ -1,11 +1,89 @@
 - year: 2013
-  authors: Gandhi, S., Vyas, A., Sharma, S., Jain, G.
+  authors: Gandhi, S., Vyas, A., Sharma, S., & Jain, G.
   title: Multi stage unsupervised classification for urban application
   publication: Applied Geoinformatics for Society and Environment 2013
-  link: http://www.applied-geoinformatics.org/downloads/AGSE2013_Proceedings_AGSE_Publishing.pdf
+  link: http://www.applied-geoinformatics.org/downloads/AGSE2013_Proceedings_AGSE_Publishing.pdf 
 - year: 2014
-  authors: Gandhi, S. R., & Singh, T. P. 
+  authors: Gandhi, S. R., & Singh, T. P.
   title: Automatization of Forest Fire Detection Using Geospatial Technique
   publication: Open Journal of Forestry, 4
   link: http://dx.doi.org/10.4236/ojf.2014.44036
-  doi: 10.4236/ojf.2014.44036
+  doi: 10.4236/ojf.2014.44036 
+- year: 2015
+  authors: Gandhi, S., Sharma, S., & Vyas, A.
+  title: Urban growth analysis using Shannon entropy – A case study of Rajkot city (Gujarat)
+  publication: Journal of Geomatics (JoG), 9(1)
+  link: http://www.isgindia.org/JOG/abstracts/April-2015/10_Paper_281.pdf 
+- year: 2015
+  authors: Gandhi, S., & Vyas, A.
+  title: Monitoring Drugs Store Using Spatial Analysis
+  publication: Esri Education GIS Conference, July 18, 2015 through July 21, 2015, San Diego (USA)
+- year: 2015
+  authors: Gandhi, S., & Vyas, A.
+  title: Multi Criteria Analysis to Predict Urban Sprawl for Rajkot City
+  publication: Esri User Conference, July 20, 2015 through July 24, 2015, San Diego (USA)
+  link: http://proceedings.esri.com/library/userconf/proc15/papers/239_230.pdf 
+- year: 2016
+  authors: Gandhi, S., Sharma, S., & Vyas, A. 
+  title: Quantifying Urban Sprawl for Rajkot City using Geospatial Technology
+  publication: INTERNATIONAL JOURNAL OF BUILT ENVIRONMENT AND SUSTAINABILITY Published by Faculty of Built Environment, Universiti Teknologi Malaysia, 3(2)
+  link: http://ijbes.utm.my/index.php/ijbes/article/view/124/69 
+- year: 2016
+  authors: Gandhi, S., Sharma, S., & Vyas, A.
+  title: Predicting Urban Sprawl for Rajkot City using SLEUTH Model and GIS Techniques
+  publication: Journal of Geomatics (JoG), 10(2)
+  link: http://www.isgindia.org/JOG/abstracts/OCT-2016/pap013.pdf 
+- year: 2018
+  authors: Gharekhan, D., & Gandhi, S.
+  title: Studying the land use change for Understanding Old European colonies in Present Era of India
+  publication: Journal of Environmental Science, Computer Science and Engineering & Technology, An International Peer Review E-3 Journal of Sciences and Technology, 7(1)
+  doi: 10.24214/jecet.A.7.1.06069 
+- year: 2018
+  authors: Gandhi, S., & Vyas, A.
+  title: Development of Spatial Enabled Web- Application For Governance: A Case Study Of FDCA, Government Of Gujarat
+  publication: 39th ACRS Conference, 15th to 19th October 2018, Kaula lumpur, Malaysia
+  link: https://acrs2018.mrsa.gov.my/wp-content/uploads/2018/10/TS48-FULL-PAPER.pdf 
+- year: 2018
+  authors: Shroff, U., Gandhi, S., & Anyia, F.E. 
+  title: Analysis of the Correlation Between Particulate Matter (Pm10), Fine Particulate Matter (Pm2.5) And Ozone (O3): A Case Study Of United States Major Cities
+  publication: 39th ACRS Conference, 15th to 19th October 2018, Kaula lumpur, Malaysia
+- year: 2019
+  authors: Dave, B., & Gandhi, S.
+  title: Impacts of Urban Expansion on Urban Heat Island - A Geospatial Approach
+  publication: IJSRSET Themed Section : Engineering and Technology, 6(1)
+  doi: https://doi.org/10.32628/IJSRSET19612 
+- year: 2019
+  authors: Gandhi, S., & Anyiam, F. E.
+  title: Urban Data Science education: a key actor towards improving data driven policy-making for solving urban problems
+  publication: CODATA 2019 Beijing ''Towards next-generation data-driven science: policies, practices and platforms', 19-20 September
+  link: https://conference.codata.org/CODATA_2019/sessions/154/paper/437/ 
+- year: 2020
+  authors: Gandhi, S. 
+  title: Urban Growth Analyses of Rajkot City Applying Remote-Sensing and Demographic Data
+  publication: Geography Research Forum, Vol. 40, 2020, Special Issue SMART, SUSTAINABLE AND FAIR CITIES
+  link: https://grf.bgu.ac.il/index.php/GRF 
+- year: 2022
+  authors: Gandhi, S. R., & Anyiam, F. E.
+  title: Urban Data Science Education: A Key Actor towards Improving Data-Driven Policy-Making for Solving Urban Problems
+  publication: Journal of Education, Society and Behavioural Science
+  doi: 10.9734/jesbs/2022/v35i530421 
+- year: 2023
+  authors: Philip, A., Pathak, B., Gandhi, S., & Rawal, R.
+  title: Developing and Calibrating a Cost-Effective Method to Determine Window-To-Wall Ratio and Air-Conditioning Status of Existing Buildings
+  publication: Proceedings of the 5th International Conference on Building Energy and Environment. COBEE 2022. Environmental Science and Engineering
+  link: https://doi.org/10.1007/978-981-19-9822-5_303 
+- year: 2023
+  authors: Gandhi, S., Parikh, D., Jehling, M., Behnisch, M., Parmar, M., & Sharma, R.
+  title: Book of Abstracts. ILUS - International Land Use Symposium 2023, Ahmedabad, India
+  publication: ILUS - International Land Use Symposium 2023, Ahmedabad, India
+  link: https://doi.org/10.5281/zenodo.10066656 
+- year: 2024
+  authors: Gandhi, S.
+  title: 'Guest Editor for Special Issue on “Data-Driven Geospatial Approaches and Systems for Informed Decision Making in Sustainable Urban and Regional Development”'
+  publication: Springer
+  link: https://www.springer.com/journal/41651/updates/26567690 
+- year: 2024
+  authors: Vemuri, S., Gautam, D. & Gandhi, S.
+  title: Glacial retreat delineation using machine and deep learning: A case of a lower Himalayan region
+  publication: J Earth Syst Sci 133
+  link: https://lnkd.in/dmKrm6tV 
