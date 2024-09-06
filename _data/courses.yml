@@ -1,1 +1,216 @@
-
+- year: 2012
+  institution: CEPT
+  designation: Visiting Faculty
+  semester: Spring Semester
+  class: MSc Geomatics
+  subject: GIS customization using Arc objects
+- year: 2013
+  institution: CEPT
+  designation: Visiting Faculty
+  semester: Monsoon Semester
+  class: MSc Geomatics
+  subject: Introduction to programing Methodology, GIS Customization II, Web GIS and Server Architecture
+- year: 2013-14
+  institution: CEPT
+  designation: Visiting Faculty
+  semester: Spring Semester 
+  class: MSc Geomatics
+  subject: Geospatial Lab, GIS Customization I
+- year: 2014
+  institution: CEPT
+  designation: Visiting Faculty
+  semester: Monsoon Semester
+  class: MSc Geomatics and M.Tech Geomatics
+  subject: Geomatics Project planning and Management Techniques, Big Data Analytics, Enterprise GIS
+- year: 2014
+  institution: CEPT
+  designation: Visiting Faculty
+  semester: Winter School
+  class: Open for all students
+  subject: Experimenting Problem solving using computer programing
+- year: 2015
+  institution: CEPT
+  designation: Visiting Faculty
+  semester: Spring Semester
+  class: M.Tech Geomatics
+  subject: Information System & Development
+- year: 2015
+  institution: CEPT
+  designation: Visiting Faculty
+  semester: Summer School
+  class: Open for all students
+  subject: City, Sprawl and Heat Islands
+- year: 2015
+  institution: CEPT
+  designation: Visiting Faculty
+  semester: Monsoon Semester
+  class: M.Tech Geomatics
+  subject: Cartography, Surveying, Data Management & Geo-Visualisation Studio,  Smart Village Using GIS, Geomatics Project planning and Management Techniques
+- year: 2016
+  institution: CEPT
+  designation: Visiting Faculty
+  semester: Spring Semester
+  class: M.Tech Geomatics
+  subject: GIS Customization and Code Design, GIS for Governance, GIS for Cities
+- year: 2016
+  institution: CEPT
+  designation: Visiting Faculty
+  semester: Monsoon Semester
+  class: M.Tech Geomatics
+  subject: GeoSpatial Modelling, Spatial Database and Information Technology, 3D GIS and Visualization Studio
+- year: 2016
+  institution: Anant Institute of Planning
+  designation: Visiting Faculty
+  semester: Monsoon Semester
+  class: B. Plan 
+  subject: Geoinformatics for Planning
+- year: 2017
+  institution: CEPT
+  designation: Visiting Faculty
+  semester: Spring Semester
+  class: M.Tech Geomatics
+  subject: GIS Customization and Code Design, GIS for Governance, GIS for Cities
+- year: 2017
+  institution: Anant Institute of Planning
+  designation: Visiting Faculty
+  semester: Spring Semester
+  class: B. Plan
+  subject: GIS for Planning
+- year: 2017
+  institution: CEPT
+  designation: Visiting Faculty
+  semester: Summer School
+  class: Open for all students
+  subject: City, Sprawl and Heat Islands
+- year: 2017
+  institution: CEPT
+  designation: Visiting Faculty
+  semester: Monsoon Semester
+  class: M.Tech Geomatics
+  subject: Introduction to Geographical Information System, Geospatial Information Science and Geovisualization, Spatial Database and Information Technology
+- year: 2017
+  institution: Anant Institute of Planning
+  designation: Visiting Faculty
+  semester: Monsoon Semester
+  class: B. Plan
+  subject: Geoinformatics for Planning
+- year: 2018
+  institution: CEPT
+  designation: Visiting Faculty
+  semester: Spring Semester
+  class: M.Tech Geomatics
+  subject: GIS Customization and Code Design and GIS for Cities
+- year: 2018
+  institution: Anant Institute of Planning
+  designation: Visiting Faculty
+  semester: Spring Semester
+  class: B. Plan
+  subject: GIS for Planning, GIS for Master Planning
+- year: 2018
+  institution: Nirma University
+  designation: Visiting Faculty
+  semester: Spring Semester
+  class: B. Plan
+  subject: Basics of GIS modular course with hands on
+- year: 2018
+  institution: CEPT
+  designation: Visiting Faculty
+  semester: Summer School
+  class: Open for all students
+  subject: Urban Data Science
+- year: 2018
+  institution: CEPT
+  designation: Visiting Faculty
+  semester: Monsoon Semester
+  class: M.Tech Geomatics
+  subject: Introduction to Geographical Information System ,Studio Geospatial Information Science and Geovisualization, Geospatial Programming Methodology
+- year: 2018
+  institution: Nirma University
+  designation: Visiting Faculty
+  semester: Monsoon Semester
+  class: B. Plan
+  subject: Advance GIS
+- year: 2019
+  institution: CEPT
+  designation: Manager IT and Geospatial Solution, CRDF
+  semester: Spring Semester
+  class: M.Tech Geomatics
+  subject: GIS Customization and Code Design and GIS for Governance Studio
+- year: 2019
+  institution: Anant Institute of Planning
+  designation: Visiting Faculty
+  semester: Spring Semester
+  class: B. Plan
+  subject: GIS for Cities and GIS for Master Planning
+- year: 2019
+  institution: Nirma University
+  designation: Visiting Faculty
+  semester: Spring Semester
+  class: B. Plan
+  subject: Basics of GIS and GIS Elective
+- year: 2019
+  institution: CEPT
+  designation: Visiting Faculty
+  semester: Summer School
+  class: Open for all students
+  subject: Urban Data Science
+- year: 2019
+  institution: ICTP  
+  designation: Teaching Assistant
+  semester: Summer School 
+  class: Global Level 
+  subject: CODATA-RDA Research Data Science
+- year: 2019
+  institution: CEPT
+  designation: Manager IT and Geospatial Solution, CRDF
+  semester: Monsoon Semester
+  class: M.Tech Geomatics
+  subject: Introduction to Geographical Information System Modular Course, Geographic Information Science-Foundation Studio, Geospatial Programming Methodology
+- year: 2020
+  institution: CEPT
+  designation: Manager IT and Geospatial Solution, CRDF
+  semester: Spring Semester (Hybrid)
+  class: M.Tech Geomatics
+  subject: GIS Customization and Code Design and GIS for Governance Studio
+- year: 2020
+  institution: CEPT
+  designation: Manager IT and Geospatial Solution, CRDF
+  semester: Monsoon Semester (Online)
+  class: M.Tech Geomatics
+  subject: Introduction to Geographical Information System Modular Course, Geographic Information Science-Foundation Studio, Geospatial Programming Methodology
+- year: 2021
+  institution: CEPT
+  designation: Manager IT and Geospatial Solution, CRDF
+  semester: Spring Semester (Online)
+  class: M.Tech Geomatics
+  subject: GIS Customization and Code Design and GIS for Governance Studio
+- year: 2021
+  institution: CEPT
+  designation: Manager IT and Geospatial Solution, CRDF
+  semester: Monsoon Semester (Hybrid)
+  class: M.Tech Geomatics
+  subject: Geographic Information Science-Foundation Studio
+- year: 2022
+  institution: CEPT
+  designation: Manager IT and Geospatial Solution, CRDF
+  semester: Spring Semester (partial Online)
+  class: M.Tech Geomatics
+  subject: GIS for Smart Cities Studio
+- year: 2022
+  institution: CEPT
+  designation: Program Chair, CRDF
+  semester: Monsoon Semester
+  class: M.Tech Geomatics
+  subject: Geographic Information Science-Foundation Studio
+- year: 2023
+  institution: CEPT
+  designation: Program Chair, CRDF
+  semester: Spring Semester
+  class: M.Tech Geomatics
+  subject: GIS for Smart Cities Studio
+- year: 2023
+  institution: CEPT
+  designation: Program Chair, CRDF
+  semester: Spring Semester
+  class: M.Tech Geomatics
+  subject: Elective: Data Analysis with R Programming 
