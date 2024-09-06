@@ -28,7 +28,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:dr.shaily.gandhi@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/ShailyGandhi"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/shaily-gandhi-ph-d-24285b85/"}
-  - {title: X, icon: x, url: "https://x.com/ShailyGandhi"}
+  - {title: X, icon: rss, url: "https://x.com/ShailyGandhi"}
   - {title: ORCHiD, icon: orcid, url: "https://orcid.org/0000-0002-8893-2130"}
 
 comments:
