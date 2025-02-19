@@ -37,16 +37,3 @@ comments:
 
 plugins:
  - jekyll-feed
-
-# Collections - Move posts to /blog/ instead of homepage
-collections:
-  posts:
-    output: true
-    permalink: /blog/:title/
-
-# Set default layout to "page" so index.html works as homepage
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: "page"
